@@ -30,7 +30,8 @@ struct KoreanStudyWordList {
         })
         
         if (filteredWords.count==0) {
-            return filteredWords
+        
+                return filteredWords
         }
         
         if (allowRepeats) {
@@ -44,7 +45,7 @@ struct KoreanStudyWordList {
         } else {
             // This is quite ineffecient, but should be fine for the
             // short lists we will deal with
-            var retVal : Set<KoreanStudyWord> = Set<KoreanStudyWord>()
+            var retVal : [KoreanStudyWord] = [KoreanStudyWord]()
             while true {
                 if (retVal.count==filteredWords.count) {
                     return Array(retVal)
@@ -53,7 +54,9 @@ struct KoreanStudyWordList {
                     return Array(retVal)
                 }
                 let index = Int(arc4random_uniform(UInt32(filteredWords.count)))
-                retVal.insert(filteredWords[index])
+                if (!retVal.contains(filteredWords[index])) {
+                    retVal.append(filteredWords[index])
+                }
             }
         }
     }
