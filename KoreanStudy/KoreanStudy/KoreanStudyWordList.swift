@@ -43,8 +43,8 @@ struct KoreanStudyWordList {
             }
             return retVal
         } else {
-            // This is quite ineffecient, but should be fine for the
-            // short lists we will deal with
+            // This is quite inefficient, but should be fine for the
+            // short lists we will deal with.
             var retVal : [KoreanStudyWord] = [KoreanStudyWord]()
             while true {
                 if (retVal.count==filteredWords.count) {
