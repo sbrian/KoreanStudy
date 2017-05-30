@@ -2,7 +2,7 @@ About -에 대해서 2
 Accident (such as car accident) 사고 나다 1,48
 Achieve (as in dream) 이루다 6,8,48,64
 Accounting 회계 30,8,305
-Accurate, precise 정확하다 18,61,301
+Accurate, precise 정확하다 18,61,80,301
 Across from 맞은편에 4
 Act or behave 행동하다 13,8,48,61
 Actor, actress 배우 21,8,302
@@ -19,6 +19,7 @@ Agree 동의하다 17,8,44,301,61
 Airport 공항 18	
 All (adjective) 모든 1
 All (adjective) 전체 8,44,309
+All 아예 65,74
 All (adverb) 다 1
 All night 밤새 9
 Alley 골목 65,70
@@ -49,6 +50,7 @@ Arrive 도착하다 1,61
 Arrive at work 출근하다 1,61
 Arrogant 거만하다 17,8,61
 Art 미술 56,301
+Art appreciation 미술 감상 65,67
 As expected 역시 21,8
 Ask 묻다 7,48,64
 Ask 물어보다 9,17
@@ -68,6 +70,7 @@ Back down, give in 앙보하다 45,44,51,304,61
 Badger 오소리 29
 Bake 굽다 40,8,48,307,64
 Basement 지하 2
+Basketball 농구 65,77
 Battery (power) 건전지 17,8,301
 Be like someone, follow 이러하다 58,61
 Be polite 예의 바르다 18,44,48
@@ -75,6 +78,7 @@ Beach 바닷가 63
 Beauty parlour 미용실 15
 Become 되다 6,48
 Become interested 흥미 생기다 48,63,65
+Beginner 초급 65,67
 Behind 뒤 4,306	
 Behind 숨어 4
 Beside 옆 4
@@ -122,8 +126,10 @@ Business hours 영업 시간 63,65
 Business trip 출장 1,308
 Bury 묻다, 묻어요 41,8,307
 By what means 무슨 수로 65,66
+Capable 능격 좋다 63,65
 Cabbage 배추 18,8
 Carefully or meticulously 세심하다 25,8,61
+Carriage 마차 65,75
 Carry 메다 65,70
 Cash 현금 1
 Casual speech 반말 4
@@ -138,9 +144,11 @@ Chick 병아리 65,73
 Childish, ridiculous 유치하다 6,8,61
 Children (polite) 자제분 49
 Choose, select 고르다 2,8,48
+Choose from a pool 뽑다 63,65
 Chopsticks 젓가락 6
 Circumstance, case 경우 21,19,25,8
 City 도시 19,8
+Clam 조개 65,77
 Clam (small) 바지락 18,8,44
 Clean off (Lisa said about shoes) 깨끗하게 하다 7,61
 Clean 닦다 56,48,64
@@ -148,6 +156,8 @@ Clearly, distinctly 분명히 21,8
 Client 고객 1
 Close, be close 가깝다 21,8,48
 Cloud 구름 5
+Club 동호회 65,77
+Coin 동전 63,65
 Colleague 동료 1
 Collide, hit 부딪치다 63,65
 Color 색깔 17,8,44
@@ -157,6 +167,8 @@ Come home 귀가하다 49,61,305
 Comment or reply 댓글 10,8
 Common, usual 흔하다 65,73
 Company outing 회식 1
+Compared to 비해서 74,65
+Compared to the usual 평소보다 65,80
 Conclusion, ultimately, after all 결국 19,21,8,305
 Conclusion 결론 21,8,306
 Concussion 뇌진탕 63,65
@@ -222,8 +234,10 @@ Drive 운전하다 18,8,61
 Drop by 들리다 48,49,206,64
 Dry 마르다 6,48,64
 Dry (as in skin) 건조하다 6,307,61
+Duck 오리 65,75
 During 동안 17,8,307
 Dwarf, little 꼬마 65,70
+Each, at a time 씩 65,67,77
 Earlier today 아까 18,8,305
 Easy, simple 간단하다 21,17,8,44,61
 Educate, order 시키다 48,63,65
@@ -241,8 +255,11 @@ Enough for two 두 명이서 먹기에 충분하죠? 63
 Enter country 입국하다 49,308,61
 Entrance, hallway 형관 4,8,309
 Envy 부럽다 18,44,48,64
+Equally 공통적으로 65,77
 Especially 특히 1,21
+Etcetera, and so on 등 63,65
 Exactly as said 말하는 대로 21,8
+Exam 시험 65,75
 Exception 예외 13,8,306
 Exceed, pass 넘다 19,17,8,48,64
 Excuse me, sorry 죄송하다 23,61
@@ -261,6 +278,7 @@ Feel 느끼다 19,8,48,64
 Feel uneasy, pressured 눈치가 보이다 8,44,48
 Fence 담장 19,8,300
 Figure, appearance 모습 17,8,44
+Fill 차다 63,65
 Finally 드디어 65,70
 First 먼저 1
 First 우선 9,8,307
@@ -270,6 +288,7 @@ Finger 손가락 5
 Finish 마치다 21,8,48,64,302
 Finish, complete, throw away 버리다 58,48,59,64
 First day 첫날 63,65
+First impression 첫인상 65,78
 Fish (for eating) 생선 6,306
 Fix 고치다 35,8,48
 Floating 떠 있다 44,45,300
@@ -298,18 +317,21 @@ Gain weight 살이 찌다 1
 Gambling 도박 63,65
 Garden 정원 29,8,51,304
 Genius 천제 39,8
+Genre 장르 63,65
 Germany 독일 23,8
 Get hurt 다치다 36,8,48
 Get hurt a lot 크게 다치다 45,44
 Get older 나이가 들다 21,8
 Get scolded 혼나다 45,44
 Get treated unfairly 억울하다 56,61,305
+Get used to 익숙하다 65,67
 Get wet 젖다 6,8,48,64
 Girl 소녀 65
 Give 드리다 48,49,307,64
 Give example 예를 들다 2,8,48,309
 Give example 보기를 들다 2,309
 Give off a smell 풍기다 23
+Glass 유리 65,75
 Glove 장갑 18,8
 Go back 돌어가다 1,48
 Go down 내려가다 1,48
@@ -320,6 +342,7 @@ Go up 올라가다 1,48
 Gold 금 55
 Good looking 잘생기다 9,8,48
 Good point 장점 19,8,307
+Gore 공포 63,65
 Government 정부 58,304
 Gracefully 우아하다 6,304,61
 Gradually 점점 21,8
@@ -329,10 +352,12 @@ Grassland, lawn, grassy place 풀밭 65,71
 Graze 뜯다 65,71
 Greedy person 욕심쟁이 55
 Ground 땅 17,8
+Group with same interest 동아리 65,67
 Grow 자라다 48,63
 Guard, keep, obey 지키다 48,65,71
 Gut 속 18,8,44,56
 Had a good time 좋은 시간 보냈어요 63,65
+Hard to understand 이해하기 어렵다 65,67
 Headquarters 본사 49,51,304
 Heal 낫다 42,8,44,48,303,64
 Hedgehog 고슴도치 65,73
@@ -343,6 +368,7 @@ Hide 숨다 29,8,48
 High 높다 65,66
 High school 고등학교 19,8
 High value 값비싼 55
+Hire 고용하다 65,63
 Historical site or ruins 유적 19,8,306
 History (subject) 역사 4,8,44,302
 Hit 때리다 18,8,48,305
@@ -355,6 +381,7 @@ Hospital room 병실 43,8,308
 Housework 집안일 1
 How 어떻다 48,58
 How do you know? 어떻게 아세요? 1
+Humble 겸손하다 63,65
 Humid 습하다 54,304,61
 Husband and wife 부부 63,65
 I cannot understand a thing 하나도 모르겠어 53,309
@@ -372,6 +399,7 @@ In the past 예전에 45,44
 Incorrect 틀리다 49,48,309
 Increase, multiply, accrue 늘다 56,48,303,64	
 Indoors 실내 43,8,44
+Information 정보 65,80
 Insect 곤충 7
 Inside 안 4
 Inside 속에 56
@@ -380,8 +408,11 @@ Insufficient 모자라다 21,17,8,48
 Interest 관심 17
 Interest 흥미 63,65
 Interesting, unique, unusual 특이하다 25,8,307,61
+Interview 면접 65,78
 Invite 초대하다 49,308,61
 Iron 쇠 55,306
+Iron for clothes 다리미 65,75
+Iron clothes 다림질하다 65,75
 Is that so? 그래요, 그러세요 49
 Island 섬 65,70
 It is a shame 아쉽다 3,48
@@ -402,6 +433,7 @@ Laryngitis 후두염 49,308
 Last 마지막으로 55
 Last, persist 오래 가다 48,63,65
 Last year 작년 17,8
+Late 지각하다 65
 Lazy 게으르다 48,52,300
 Leaf 잎 7
 Leak (as in a toilet) 새다 18,8,64
@@ -411,6 +443,7 @@ Leave country 출국하다 49,61,301
 Leave work 퇴근하다 1,61
 Left behind 남다 63,65,48
 Leftovers 남은 음식 2
+Less 덜 65
 Letter, character 문자 32,8,305
 Lie down 눕다 40,8,48,302,64
 Life 삶 58
@@ -440,6 +473,8 @@ Making parents happy 효도 2
 Map 지도 18,8
 Maple 단퐁 28,8,51
 Marital bliss 금슬이 좋다 6,48
+Match or suit 어울리다 48,65,77
+Match or competition 시합 65,77
 Maybe or probably 아마 20,8,308
 Meanwhile 그동안 63,65
 Meeting, conference 회의 1,303
@@ -448,12 +483,14 @@ Memorize 암기하다 18,61,307
 Memory 추억 63,65
 Menu 차림표 1,8
 Merchandise, item, thing, object 물건 18,17,8
+Mermaid 인어 65,75
 Method 방법 1
 Middle 중간 19,8
 Middle 중심 65,66
 Middle school 중학교 3
 Miss 그립다 48,65,67
 Mistake 실수 10,8
+Misunderstand 오해하다 65,77
 Money owed to group (membership fee, share of dinner) 회비 30
 Moreover 또한 63,65
 Most 가장 1,44,308
@@ -461,10 +498,12 @@ Mostly 주로 18,62,301
 Motion sickness 멀미가 나다 18,8,305,48
 Mouth 입 7
 Movie 영화 1
+Movie appreciation 영화 감상 65,67
 Movie theater 영화관 1
 Moving 움직이다 65,66
 Much more 훨씬 2,305
 Mud 진흙 6,8
+Muscle 근육 65,74
 Museum 박물관 19,8,51
 Musical accompaniment 노래 반주 2
 Mustache 수염 55,302
@@ -479,6 +518,7 @@ New people 새로운 사람들 3
 New year 새해 2
 New year resolution 새해 결심 63,65
 Newlywed 신혼 19,8
+Night counter 박 65,67
 No matter what 무조건 9,8
 Northern region 북도 53,309
 Not criticizing 비난 하는 건 아니고요 17
@@ -491,8 +531,8 @@ Number 숫자 1
 Observe 관찰을 하다 25,8,44,306,61
 Observe, as a special day, pass time 지내다 63,65,48
 Occupational work 바깥일 1
+Octopus 문어 65,77
 Of course 물론 2,17
-Of course 당연히 17,8,300
 Office 사무실 43,8
 Office head 실장 43,8
 Oh no 맙소사 45,44
@@ -506,6 +546,7 @@ Only son 외동이 56
 On purpose 일부러 10,8
 Opportunity 기회 21,8,305
 Or 또는 63,65
+Or 두거나 63,65
 Order 주문하다 1,61
 Originally 원래 45,44
 Ornament 장식품 17,8
@@ -513,9 +554,11 @@ Orphan 고아 56,300
 Other 어떤 1,309
 Our 저희 3
 Outdoors 실외 43,8,44,303
+Outdoors 야외 65,80
 Outing 나들이 28,8
 Overseas 해외 19,8,305
 Own 가지고 있다 63,65,48
+Pack or wrap up 싸다 65,80
 Painter, artist 화가 56,303
 Palm of hand 손바닥 55
 Paper 종이 7,8,308
@@ -525,6 +568,7 @@ Parking 주차 1
 Pass 지나다 1,48
 Passion 열정 19,8,51
 Passion 정열 19,8,304
+Past 과거 65
 Paternal aunt 고모 7
 Path 오솔길 56
 Pay 내다 13,8,48
@@ -542,7 +586,9 @@ Persuade 설득하다 1,61
 Pet 애완 65,73
 Pregnant woman 임산부 45,44
 Photo 사진 7
+Picky 까다롭다 48,65,80
 Picnic 소풍 13,8,300
+Ping pong 탁구 65,77
 Pink 분홍 57
 Pillow 베개 7
 Pillowcase 베갯잇 7
@@ -560,6 +606,7 @@ Popularity 인기 9
 Portion 인분 14,8
 Prankster 장난꾸러기 19
 Prank(verb) 장난치다 19
+Pray 기도하다 65,75
 Precious 순전하다 47,44,308,61
 Precious 소중하다 55,61
 Prejudice, bias 선입견 63,65
@@ -571,6 +618,7 @@ Problem, question 문제 58
 Product 제품 1,65
 Process 과정 58,302
 Pronunciation 발음 63,65
+Properly 제대로 65,77
 Prove 증명하다 21,8,44,61
 Pull 당기다 29,8,48,64
 Push 밀다 18,48,64
@@ -620,9 +668,11 @@ Rumour 소문 56,305
 Run, lead, flow 통하다 58,61,300
 Run away 도망가다 19,8,48,301
 Run away 달아니다 29,8,301
+Running 달리기 65,77
 Same 똑같다 17,8,48
 Salmon 연어 6
 Same age 동갑이다 13,8
+Satisified 만족하다 74,65
 Save up (as in money), gather 모으다 17,38,8,48
 Saying or proverb 속담 65,72
 Scenery 풍경 18,44,305
@@ -630,27 +680,32 @@ School trip 수학여행 19
 Science 과학 7
 Scribble 끄적거리다 17,8,306
 Seafood 해산물 1
+Sea urchin 성게 65,77
 Seat 좌석 45,44,307
 Security 경비원 18
+See, meet (humble) 뵙다 48,63,65
 Sell 팔다 2,48
 Send, pass, spend 보내다 63,65,48
-Sentence 무장 32,8,306
+Sentence 문장 32,8,306
 Separate 구분하다 3,8,61,200
 Separately 따로따로 1
 Serious (like about studying) 진지하다 3,61
 Serious (more general, can be about bad things) 심각하다 3,61,304
+Set up or make as in a plan 세우다 48,63,65
 Severe 심하다 56,306,61
 She 그녀 58,306
 Shed 헛간 56
 Shoulder 어깨 6,8
 Shake, sway 흔들리다 45,44
 Shape 모양 8,306
+Shark 상어 65,75
 Short 짧다 48,65
 Shout 지르다 2,8,48
 Shout 소리치다 56,64
 Show off 잘난 척하다 17,8,61
 Side 쪽 (창문쪽) 4
 Sightseeing 구경 19,17,8,44,301
+Sightseeing 관광 65,63
 Significant 의미가 있다 2,8
 Silver 은 55,309
 Similar 비슷하다 21,61
@@ -662,6 +717,7 @@ Slip or skid 미끄러지다 63,65
 Slippery 미끄럽다 48,63,65
 Slow 느리다 17,8,48,64
 Small or few in number 적다 48,58,303,64
+Smart 똑똑하다 65
 Smell 맡다 48,56,303
 Snack, meal between meals 간식 5
 Society, culture, or club 사회 30,8,58,306
@@ -702,6 +758,8 @@ Subway 전철 45,44,309
 Subway line 호선 46,44,301
 Suggest 제안하다 1,61
 Sunshine 헷빛 57,305
+Supervisor or director 감독 65,75
+Support 보조하다 63,65
 Surprised 놀라다 48,58,307,64
 Surprise someone 놀래켜 주다 25,8,48
 Surprised (adverb) 깜짝 25,8
@@ -730,6 +788,7 @@ Thirsty 목 마르다 6
 This way 이렇게 3
 This year 올해 19,8,305
 Three days 사흘 63
+Throw 던지다 79,65,48
 Tidy, put away 치우다 7,8,303
 Tie, bind 매다 56,48,303,64
 Time 때 18
@@ -743,14 +802,17 @@ Towel 수건 50,300
 Town 마을 56
 Trend 유행 65,73
 True, so 그렇다 48,58
+Try 시도하다 65,67
 Trying to understand 이해 중이다 18,8,44
 Tuna 참치 6,50,308
 Turn 돌다 48,49
 Turn on and put on 켜 놓다 2,48
+Tutoring 과외 65,76
 Twang 콧소리 65,66
 Two days 이틀 63
 Type of 일종 17,8
 Understand (sympathize) 이해가 됩니다 2
+Unexpected behaviour 예기치 않았던 행동 65,63
 Unkind, unfriendly 불친절하다 9,61
 Unload 내리다 63,65,48
 Upset 속상 47,44,51
@@ -766,9 +828,11 @@ Various 여러가지 1
 Verb 동사 13,8
 Very (in a very positive sense, awesome) 굉장히 2,17
 Very 엄청 17,8
-Very 워낙 19,8
+Very 워낙 63,65
 Very 되게 63,65
+Very 완전 74,65
 Video 동영상 19,8,302
+Video 영상 63,65
 View 전망 18,8,44
 Visit 방문하다 18,44,61
 Vocabulary 어휘 3,8,44,305
@@ -793,8 +857,10 @@ Whip, horse whip 채찍 56,305
 White 하앟다 21,8
 Why 어찌 55,305
 Wide 활짝 57,301
+Wide, spacious 넓다 48,65
 Win 이기다 2,48,307
 Winner 승자 2,8,303
+Without a doubt 당연히 17,8,300
 Wolf 늑대 65,68
 Woman 여성 21,8,302
 Woodcutter 나무꾼 55,307
@@ -804,80 +870,3 @@ Worth something 할 만하다 21,8,307,61
 Wound, injury 상처 56,300
 Writing 글 17,8,44
 Young 어리다 18,48,305
-
-# Note: (1) is from Iyagi #2 and 2015.08.18 White Board
-# Note: (2) is mostly from Iyagi #3
-# Note: (3) is mostly from Iyagi #4
-# Note: (4) is from 2015.01.20 White Board
-# Note: (5) is from 보조개왕자 #2
-# Note: (6) words I learned from Lisa
-# Note: (7) random words I picked up
-# Note: (8) things I’ve been forgetting
-# Note: (9) is from Iyagi #5
-# Note: (10) is from http://www.talktomeinkorean.com/lessons/hdystik35/
-# Note: (11) is from Iyagi #6
-# Note: (12) is from http://www.talktomeinkorean.com/lessons/howtosay15feb2013/
-# Note: (13) is from various TTMIK
-# Note: (14) is from 2015.08.18 White Board
-# 15 TTMIK 4 29
-# 16 TTMIK 4 28
-# 17 Iyagi #8
-# 18 Random words I picked up (2)
-# 19 Iyagi #9 Travel (2)
-# 20 http://koreanwordaday.tumblr.com/post/3289413835/%EB%A9%80%EB%AF%B8-motion-sickness
-#21 Iyagi #7 Charming Women
-#22 http://www.talktomeinkorean.com/lessons/level-3-lesson-17/
-#23 http://www.talktomeinkorean.com/lessons/level-2-lesson-3/#more-656
-#24 http://www.talktomeinkorean.com/lessons/level-2-lesson-7/#more-716
-#25 http://www.talktomeinkorean.com/shows/presents/#more-6064
-#26 Book - 우리집 소리상자
-#27 Book 가재가 된 징거미
-#28 Book 첫나들이
-#29 Book 동물친구들
-#30 http://www.talktomeinkorean.com/lessons/level-5-lesson-13/
-#31 http://www.talktomeinkorean.com/lessons/level-5-lesson-4/
-#32 http://www.talktomeinkorean.com/lessons/level-5-lesson-6/
-#33 http://www.talktomeinkorean.com/lessons/level-2-lesson-10/
-#34 http://www.talktomeinkorean.com/lessons/level-2-lesson-11-self-introduction-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C/
-#35 http://www.talktomeinkorean.com/lessons/level-2-lesson-14/
-#36 http://www.talktomeinkorean.com/lessons/level-2-lesson-28/
-#37 http://www.talktomeinkorean.com/lessons/level-3-lesson-5/
-#38 http://www.talktomeinkorean.com/lessons/level-3-lesson-7/
-#39 http://www.talktomeinkorean.com/lessons/level-3-lesson-8/
-#40 http://www.talktomeinkorean.com/lessons/level-3-lesson-11/
-#41 http://www.talktomeinkorean.com/lessons/level-3-lesson-26/
-#42 http://www.talktomeinkorean.com/lessons/level-3-lesson-29/
-#43 http://www.talktomeinkorean.com/lessons/level-3-lesson-30/
-#44 Don’t know well as of April 24
-#45 Talk to me in Korean #1 Priority Seats
-#46 http://www.talktomeinkorean.com/lessons/l6l21/
-#47 From Viki dramas
-#48 Verbs at www.dongsa.net
-#49 https://docs.google.com/document/d/1piiBX7q6V6md1D1MNSajeE4LOZ4K6PgzbjymD-0sz-k/edit#
-#50 New in July
-#51 Review in July
-#52 http://www.talktomeinkorean.com/shows/iyagi-intermediate/iyagi-10/
-#53 http://www.talktomeinkorean.com/shows/dialect-gyeongsang/
-#54 http://www.talktomeinkorean.com/shows/iyagi14/
-#55 금도끼은도끼
-#56 플랜더스의 개
-#57 Another book
-#58 Common words I didn’t know http://www.topikguide.com/6000-most-common-korean-words-1/
-#59 http://www.talktomeinkorean.com/lessons/l9l2/
-#60 http://www.talktomeinkorean.com/shows/iyagi-16/
-#61 하다 Verbs
-#62 http://www.howtostudykorean.com/unit1/unit-1-lessons-17-25-2/lesson-18/
-#63 https://docs.google.com/document/d/1Ks-7eCWnjWkFqdQ2PYvhf1lSGg2efzssmYKUsVLsxp4/edit
-#64 Newer verbs
-#65 New vocab, after Nov 2016
-#66 From 입이 똥꼬에게 book
-#67 2016.09.13 Whiteboard
-#68 늑대와 이곱마리의 아기 양
-#69 Jeremy’s Homework (connect the numbers)
-#70 무얼 타고 갈까요?
-#71 이솝 이야기 2
-#72 2017-01-03 Lesson
-#73 http://www.talktomeinkorean.com/shows/iyagi-23/
-
-
-
